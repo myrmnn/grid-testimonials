@@ -208,9 +208,9 @@
 
 .attribution {
   font-size: 1rem;
+  padding: 1em;
   -ms-grid-column: 1;
-  -ms-grid-column-span: 1;
-  grid-column: 1/2;
+  grid-column: 1;
 }
 
 .attribution a {
